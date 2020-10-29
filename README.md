@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Sierra. I'm a young professional based in Boston, Mass. 
+
+Pronouns: She/Her
+
+I'm currently working on building my own portfolio website and using Google Analytics to examine web traffic. I'm a writer and content specialist, as well as a beginner in code, so I thought this would be a great way to continue learning. I have experience with C++ and HTML. 
+
+
+
 <!--
 **sierrasumner/sierrasumner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
